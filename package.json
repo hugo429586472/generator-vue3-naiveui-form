@@ -1,0 +1,26 @@
+{
+  "name": "generator-vue3-naiveui-form",
+  "version": "1.0.1",
+  "description": "A vue3 form based on naiveui and formily",
+  "keywords": [
+    "yeoman",
+    "generator",
+    "vue3",
+    "formily"
+  ],
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext .vue,.js,.ts,.jsx,.tsx,.md,.json --max-warnings 0",
+    "lint:fix": "eslint --fix . --ext .vue,.js,.ts,.jsx,.tsx,.md,.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@element-plus/eslint-config": "2.2.13",
+    "@types/node": "^18.7.6",
+    "eslint": "^8.22.0",
+    "yeoman-generator": "^5.7.0"
+  },
+  "dependencies": {}
+}
