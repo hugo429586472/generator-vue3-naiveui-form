@@ -1,7 +1,7 @@
 {
   "name": "generator-vue3-naiveui-form",
-  "version": "1.0.1",
-  "description": "A vue3 form based on naiveui and formily",
+  "version": "0.0.1",
+  "description": "A Vue3 form component generator based on Formily and naiveui",
   "keywords": [
     "yeoman",
     "generator",
