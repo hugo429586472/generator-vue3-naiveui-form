@@ -15,3 +15,9 @@ cd my-project
 yo vue3-naiveui-form
 
 ```
+
+### conflict package.json
+
+运行 ```yo vue3-naiveui-form``` 应该会有 ``` conflict package.json ``` 的提示，可以选择 d (show the differences between the old and the new)，查看更新了什么依赖，然后继续回车并且选择  n (do not overwrite)。
+最后根据自己项目的情况加上 generator  中使用的依赖即可。
+
